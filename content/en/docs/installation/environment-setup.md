@@ -13,3 +13,10 @@ weight: 102
 toc: true
 ---
 
+
+## Install dependencies
+
+```bash
+pip3 install quantplay
+pip3 install qplay-cli
+```

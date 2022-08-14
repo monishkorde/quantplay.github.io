@@ -1,5 +1,5 @@
 ---
-title: "How to Update"
+title: "Load Data"
 description: ""
 lead: ""
 date: 2020-11-12T13:26:54+01:00
@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "help"
-weight: 610
+weight: 2
 toc: true
 ---
 

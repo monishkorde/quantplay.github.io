@@ -12,3 +12,10 @@ menu:
 weight: 302
 toc: true
 ---
+
+## What Is a Bollinger Band?
+Bollinger Bands were developed and copyrighted by famous technical trader John Bollinger, designed to discover opportunities that give investors a higher probability of properly identifying when an asset is oversold or overbought.
+## Key details
+There are three lines that compose Bollinger Bands
+A simple moving average (i.e middle band) and an upper and lower band
+The upper and lower bands are typically 2 standard deviations +/- from a 20-day SMA (simple moving average)

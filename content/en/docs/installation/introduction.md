@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "installation"
-weight: 1
+weight: 101
 toc: true
 ---
 

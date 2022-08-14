@@ -12,4 +12,10 @@ menu:
 weight: 101
 toc: true
 ---
+## How to setup Quantplay environment on your machine
+The Quantplay Command Line Interface (CLI) is a unified tool to simplify algorithmic trading for everyone. This one tool caters multiple services:
 
+* Market Data
+* Backtesting
+* Automation
+To setup Quantplay CLI run the following command in terminal:

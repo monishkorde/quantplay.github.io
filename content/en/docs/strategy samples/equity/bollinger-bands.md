@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Bollinger Bands"
 description: "Answers to frequently asked questions."
 lead: "Answers to frequently asked questions."
 date: 2020-10-06T08:49:31+00:00
@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "help"
-weight: 403
+    parent: "Equity"
+weight: 302
 toc: true
 ---
